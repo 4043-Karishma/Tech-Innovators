@@ -4,11 +4,11 @@
 # Project Overview:<br>
 The Skill Navigator application aims to provide a comprehensive platform for users to define their job roles, receive effective training, engage with AI-driven mentorship, and access industry experts. The platform will support diverse learning needs, including those of individuals with disabilities, by offering customized learning experiences, feedback, and real-time collaboration opportunities. The ultimate goal is to facilitate skill acquisition, professional growth, and employment opportunities.<br>
         
-*Desktop View*:https://www.figma.com/design/i9qjOvHCZ3vrEUHTE4zQG9/Free-AI-Navigation-WebUI-Template---All-in-AI-Tools-(Community)?node-id=4-100&t=SVxLTQeRTXJhUfYR-1<br>
+# Desktop View:https://www.figma.com/design/i9qjOvHCZ3vrEUHTE4zQG9/Free-AI-Navigation-WebUI-Template---All-in-AI-Tools-(Community)?node-id=4-100&t=SVxLTQeRTXJhUfYR-1<br>
 
-*Core Features:*<br>
+# Core Features:<br>
 
-*User Profile and Role Definition:*<br>
+## User Profile and Role Definition:*<br>
 
 Users can create detailed profiles, outlining their career aspirations, current skills, and desired job roles.
 The application uses AI to analyze the user’s profile and suggest tailored learning paths based on industry standards and trends.<br>
