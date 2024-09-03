@@ -1,4 +1,4 @@
-*Team Name:* Tech Innovators<br>
+# Team Name: Tech Innovators<br>
 *Application Name:* Skill Navigator Platform<br>
 
 *Project Overview:*<br>
