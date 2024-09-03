@@ -1,4 +1,4 @@
-*#Team Name:* Tech Innovators<br>
+*Team Name:* Tech Innovators<br>
 *Application Name:* Skill Navigator Platform<br>
 
 *Project Overview:*<br>
@@ -84,6 +84,35 @@ ARIA roles, screen reader support, voice command integration.<br>
 *APIs:*<br>
 Integration with third-party platforms for webinars, industry connections, and job placements.<br>
 
+*User Journey:*<br>
+
+*Onboarding:*<br>
+
+Users sign up and define their job role and career aspirations.
+The platform recommends a personalized learning path.<br>
+
+*Learning and Mentorship:*<br>
+
+Users engage with course content, participate in quizzes, and receive mentorship.
+AI mentorship is activated for users requiring specialized support.<br>
+
+*Progress Tracking and Feedback:*<br>
+
+Users track their progress through dashboards and receive feedback from mentors and AI.<br>
+
+*Completion and Industry Interaction:*<br>
+
+After course completion, users are introduced to industry experts and invited to webinars.
+Opportunities for real-time project collaboration and internships are offered.<br>
+
+*Career Advancement:*<br>
+
+Users can access job placement services, gain certifications, and retain lifelong access to their learning progress and achievements.<br>
+
+*Conclusion:*<br>
+
+The Skill Navigator Application is designed to be a lifelong learning companion, helping users to continuously grow and adapt in their professional journeys. By combining personalized learning, AI-driven support, and real-time industry interaction, it provides a holistic approach to skill development and career advancement.<br>
+This project has the potential to revolutionize how individuals approach learning and professional development, making education accessible, personalized, and effective for everyone, regardless of their background or abilities.<br>
 
 
 
