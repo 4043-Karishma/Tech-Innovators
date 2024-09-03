@@ -64,31 +64,24 @@ Features like AI-driven mentorship, customizable learning paths, and support for
 *Technology Stack:*
 
 *Front-End:*<br>
-
 React.js, HTML5, CSS3, and JavaScript for responsive and accessible user interfaces.<br>
 
 *Back-End:*<br>
-
 Node.js with Express or Python with Django for server-side logic.<br>
 
 *AI and Machine Learning:*<br>
-
 TensorFlow, PyTorch, or a similar framework for AI-driven mentorship and feedback mechanisms.<br>
 
 *Database:*<br>
-
 PostgreSQL or MongoDB for storing user profiles, course content, progress, and feedback.<br>
 
 *Chatbots:*<br>
-
 Dialogflow, Rasa, or a custom-built NLP model for AI assistants and chatbots.<br>
 
 *Accessibility Tools:*<br>
-
 ARIA roles, screen reader support, voice command integration.<br>
 
 *APIs:*<br>
-
 Integration with third-party platforms for webinars, industry connections, and job placements.<br>
 
 
